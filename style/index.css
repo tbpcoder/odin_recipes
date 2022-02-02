@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 20px;
+    margin: 0;
+    font-weight: bold;
+}
+
+body {
+    background-image: url("https://www.thespruceeats.com/thmb/UMT0Jx65qwNd0wxGdPk8nED3FBo=/2000x1500/filters:fill(auto,1)/GettyImages-1042998066-518ca1d7f2804eb09039e9e42e91667c.jpg");
+    background-repeat: no-repeat;
+}
+
+.parent{
+    text-align: center;
+    margin: 0;
+}
+
+.child{
+    display: inline-block;
+    width: 30%;
+    padding-bottom: 40px;
+    margin: 10px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 15px;
+}
+
+a{
+    color:white;
+    background-color:rgb(48, 48, 48);
+    border-radius: 5px;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    margin: 30px;
+    border: 1px solid white;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: white;
+    color: blue;
+    text-decoration: underline;
+}
+
+img{
+    width: 100%;
+    border-radius: 15px;
+}
